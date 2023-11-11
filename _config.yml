@@ -28,17 +28,11 @@ navbar-links:
   Research: 
   #  - Overview: "research"
      - Publications: "publications"
-  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #  - GitHub Pages: "https://pages.github.com/"
   Education: 
      - Teaching: "teaching"
-     #- Training: "gallery"
      - Talks: "Talks"
   Resources:
      - R: "software"
-     # - Shiny: "https://tianyingw.shinyapps.io/QTWAS/"
-     # - QTWAS: "QTWAS" 
 
 
 
