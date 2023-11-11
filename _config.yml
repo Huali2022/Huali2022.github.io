@@ -23,7 +23,7 @@ description: Doctoral Student in Mathematics
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  Home: "http://tianyingw.github.io"
   About Me: "aboutme"
   Research: 
      - Overview: "research"
