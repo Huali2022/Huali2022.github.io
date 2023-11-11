@@ -25,13 +25,13 @@ description: Doctoral Student in Mathematics
 navbar-links:
   Home: "http://tianyingw.github.io"
   About Me: "aboutme"
-   Research: 
+  Research: 
      - Overview: "research"
      - Publications: "publications"
-   Education: 
+  Education: 
      - Teaching: "teaching"
      - Talks: "Talks"
-   Resources:
+  Resources:
      - R: "software"
 
 
