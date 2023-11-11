@@ -25,14 +25,14 @@ description: Doctoral Student in Mathematics
 navbar-links:
   Home: 
   About Me: "aboutme"
-  # Research: 
-  #   - Overview: "research"
-  #   - Publications: "publications"
-  # Education: 
-  #   - Teaching: "teaching"
-  #   - Talks: "Talks"
-  # Resources:
-  #   - R: "software"
+   Research: 
+     - Overview: "research"
+     - Publications: "publications"
+   Education: 
+     - Teaching: "teaching"
+     - Talks: "Talks"
+   Resources:
+     - R: "software"
 
 
 
