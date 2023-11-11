@@ -23,7 +23,7 @@ description: Doctoral Student in Mathematics
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://huali2022.github.io/aboutme/"
+  Home: "http://huali2022.github.io"
   About Me: "aboutme"
   Research: 
      - Overview: "research"
