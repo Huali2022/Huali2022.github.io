@@ -25,10 +25,10 @@ description: Ph.D Student in Mathematics
 # List of links in the navigation bar
 navbar-links:
   Home: "http://huali2022.github.io"
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Research: 
      #- Overview: "research"
-     - Publications: "publications"
+     #- Publications: "publications"
   Education: 
      - Teaching: "teaching"
      - Talks: "Talks"
