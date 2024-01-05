@@ -3,12 +3,14 @@ layout: page
 title: Research
 ---
 
-My present research focuses on addressing error-in-variable issues with complex structured data. Specifically, I'm interested in the following topics:
+My present research focuses on addressing error-in-variable issues with complex structured data and related problems. Specifically, I'm interested in the following topics:
 
-- errors-in-variables issue,
+- measurement error analysis,
 - model misspecification,
 - high-dimensional data analysis,
 - compositional data analysis.
+  
+If you are interested in my research, please feel free to email me and we can discuss further.
 
 ## Publications ##
 
