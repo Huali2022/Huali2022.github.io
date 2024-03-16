@@ -6,6 +6,7 @@ title: Teaching
 ## At Tsinghua University:
 ------------------------------------------------------
 ### Courses Served as Teaching Assistant
+- Introduction to Statistics: Science and Art of Data Analysis taught by Prof. Ke Deng (Spring 2024)
 - Random Mathematics and Statistics taught by Prof. Jun Ye (Spring 2023)
 - Statistical Inference taught by Prof. Fan Yang (Spring 2023)
 - Random Mathematics and Statistics taught by Prof. Jun Ye (Fall 2022)
