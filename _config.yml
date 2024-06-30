@@ -1,5 +1,10 @@
 # --- General options --- #
-encoding: UTF-8
+#encoding: UTF-8
+# Name of website
+title: Huali Zhao
+
+# Short description of your site
+description: Ph.D Student in Mathematics 
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -14,17 +19,11 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
-# Name of website
-title: Huali Zhao
-
-# Short description of your site
-description: Ph.D Student in Mathematics 
-
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://huali2022.github.io"
+  #Home: "http://huali2022.github.io"
   #About Me: "aboutme"
   Research: "research"
      #- Overview: "research"
