@@ -9,7 +9,7 @@ order: 1
 ### Education:
   
    - _Doctoral Student (2021-now)_, Department of Mathematical Sciences, Tsinghua University   
-       - Advisors: [Ke Deng](http://www.stat.tsinghua.edu.cn/teachers/kedeng/) and [Ying Yang](https://www.math.tsinghua.edu.cn/info/1125/1624.htm)
+       - Advisors: [Ke Deng](https://www.stat.tsinghua.edu.cn/en/teachers/kedeng/) and [Ying Yang](https://www.math.tsinghua.edu.cn/info/1125/1624.htm)
 
    - _Visiting Student (June 2024-now)_, Department of Statistics, Colorado State University
        - Advisor: [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
