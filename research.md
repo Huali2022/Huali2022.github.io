@@ -10,5 +10,5 @@ If you are interested in my research, please feel free to email me and we can di
 ## Publications ##
 
 - **Zhao, H.** and Wang, T. (2023+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_, under review.
-- **Zhao, H.** and Wang, T. (2024+). _"A high-dimensional calibration method for log-contrast models subject to measurement errors"_, under review.
+- **Zhao, H.** and Wang, T. (2024+). ["Debiased Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://arxiv.org/abs/2409.07568), under review.
 
