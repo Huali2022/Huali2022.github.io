@@ -21,3 +21,8 @@ Department of Mathematical Sciences, Tsinghua University
 Haidian District, Beijing, China
    
 **Email:** zhl21[at]mails[dot]tsinghua[dot]edu[dot]cn
+
+### News:
+
+- **September 2024**: Our manuscript on [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568) is available on [arXiv](https://arxiv.org/abs/2409.07568).
+
