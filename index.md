@@ -17,8 +17,7 @@ order: 1
    - _B.S. (2017-2021)_, School of Mathematics, Jilin University
      
 ### Contact:
-Department of Mathematical Sciences, Tsinghua University
-Haidian District, Beijing, China
+Department of Mathematical Sciences, Tsinghua University, Beijing, China
    
 **Email:** zhl21[at]mails[dot]tsinghua[dot]edu[dot]cn
 
