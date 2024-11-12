@@ -23,5 +23,7 @@ Department of Mathematical Sciences, Tsinghua University, Beijing, China
 
 ### News:
 
+- **November 2024**: Our paper on [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568) is accepted by **Biometrics**.
+
 - **September 2024**: Our manuscript on [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568) is available on [arXiv](https://arxiv.org/abs/2409.07568).
 
