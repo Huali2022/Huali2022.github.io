@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Invited Talks
+title: Talks
 ---
 
 ## 2024 ##
