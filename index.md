@@ -6,8 +6,6 @@ use-site-title: true
 order: 1
 ---
 
-I am on the job market for the 2025-2026 academic year.
-
 ### Education:
   
    - _Doctoral Student (2021-now)_, Department of Mathematical Sciences, Tsinghua University   
@@ -17,11 +15,13 @@ I am on the job market for the 2025-2026 academic year.
        - Advisor: [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
   
    - _B.S. (2017-2021)_, School of Mathematics, Jilin University
-     
+
 ### Contact:
 Department of Mathematical Sciences, Tsinghua University, Beijing, China
    
 **Email:** zhl21[at]mails[dot]tsinghua[dot]edu[dot]cn
+
+I am on the job market for the 2025-2026 academic year.
 
 
 ### News:
