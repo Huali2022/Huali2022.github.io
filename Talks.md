@@ -3,6 +3,9 @@ layout: page
 title: Talks
 ---
 
+## 2025 ##
+- East Asian Core Doctoral Forum on Mathematics, Beijing (Jan 2025)
+
 ## 2024 ##
 
 - 2024 Fudan University & Tsinghua University Joint Doctoral Academic Forum -- Big Data and Brain-inspired Intelligence Section: “Debiased High-dimensional Regression Calibration for Errors-in-variables Log-contrast Models”, Institute of Science and Technology for Brain-inspired Intelligence, Fudan University, Shanghai (Dec 2024)
