@@ -4,7 +4,7 @@ title: Talks
 ---
 
 ## 2025 ##
-- East Asian Core Doctoral Forum on Mathematics 2025, Beijing (Jan 2025)
+- East Asia Core Doctoral Forum on Mathematics 2025, Beijing (Jan 2025)
 
 ## 2024 ##
 
