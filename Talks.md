@@ -4,7 +4,9 @@ title: Talks
 ---
 
 ## 2025 ##
-- East Asia Core Doctoral Forum on Mathematics 2025, Beijing (Jan 2025)
+- Beijing Biometrics Association 2024 Annual Meeting and 9th Academic Exchange Seminar (Selected as the Outstanding Young Paper), Beijing (Jan 2025)
+  
+- East Asia Core Doctoral Forum on Mathematics 2025 (speaker and chair), Beijing (Jan 2025)
 
 ## 2024 ##
 
