@@ -7,8 +7,12 @@ I am dedicated to developing novel statistical methods tailored for handling com
   
 If you are interested in my research, please feel free to email me and we can discuss further. Looking forward to working on an interesting research project together.
 
-## Publications ##
+## Publication ##
 
-- **Zhao, H.** and Wang, T<span>&#x2709;</span>. (2024+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_, submitted.
 - **Zhao, H.** and Wang, T<span>&#x2709;</span>. (2024). ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418), **Biometrics**.
+
+## Under Review ##
+
+- **Zhao, H.** and Wang, T<span>&#x2709;</span>. _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
+- **Zhao, H.** and Wang, T<span>&#x2709;</span>. _“Doubly robust augmented model transfer inference with completely missing covariates"_.
 
