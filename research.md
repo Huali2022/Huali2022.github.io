@@ -13,6 +13,6 @@ If you are interested in my research, please feel free to email me and we can di
 
 ## Under Review ##
 
-- **Zhao, H.** and Wang, T<span>&#x2709;</span>. _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
-- **Zhao, H.** and Wang, T<span>&#x2709;</span>. _“Doubly robust augmented model transfer inference with completely missing covariates"_.
+- **Zhao, H.** and Wang, T<span>&#x2709;</span>. (2025+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
+- **Zhao, H.** and Wang, T<span>&#x2709;</span>. (2025+). _“Doubly robust augmented model transfer inference with completely missing covariates"_.
 
