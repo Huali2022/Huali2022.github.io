@@ -26,6 +26,8 @@ I am on the job market for the 2025-2026 academic year.
 
 ### News:
 
+- **April 2025**: Huali won 2025 IMS Hannan Graduate Student Travel Award.
+
 - **November 2024**: Our paper on [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418) is accepted by **Biometrics**.
 
 - **September 2024**: Our manuscript on [Debiased high-dimensional regression calibration for errors-in-variables log-contrast models](https://arxiv.org/abs/2409.07568) is available on [arXiv](https://arxiv.org/abs/2409.07568).
