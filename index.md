@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Huali Zhao (赵花丽)
+title: Huali Zhao
 subtitle: Doctoral Student, Department of Mathematical Sciences, Tsinghua University
 use-site-title: true
 order: 1
