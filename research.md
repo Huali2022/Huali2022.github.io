@@ -9,10 +9,11 @@ If you are interested in my research, please feel free to email me and we can di
 
 ## Publication ##
 
-- **Zhao, H.** and Wang, T<span>&#x2709;</span>. (2024). ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418), **Biometrics**.
+- **Zhao, H.** and Wang, T. (2024). ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418), **Biometrics**.
 
 ## Under Review ##
 
-- **Zhao, H.** and Wang, T<span>&#x2709;</span>. (2025+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
-- **Zhao, H.** and Wang, T<span>&#x2709;</span>. (2025+). _“Doubly robust augmented model transfer inference with completely missing covariates"_.
+- **Zhao, H.** and Wang, T. (2025+). _"A pseudo-simulation extrapolation method for misspecified models with errors-in-variables in epidemiological studies"_.
+- **Zhao, H.** and Wang, T. (2025+). _“Augmented transfer regression learning for handling completely missing covariates"_.
+- **Zhao, H.** and Wang, T. (2025+). _“A doubly robust transfer learning method for completely missing binary covariates"_.
 
