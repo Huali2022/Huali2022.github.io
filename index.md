@@ -18,11 +18,10 @@ order: 1
 
 ### Contact:
 Department of Mathematical Sciences, Tsinghua University, Beijing, China
-   
+
 **Email:** zhl21[at]mails[dot]tsinghua[dot]edu[dot]cn
 
 I am on the job market for the 2025-2026 academic year.
-
 
 ### News:
 
