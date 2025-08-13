@@ -5,7 +5,7 @@ subtitle: Doctoral Student, Department of Mathematical Sciences, Tsinghua Univer
 use-site-title: true
 order: 1
 ---
-<img align="right" src="/assets/img/Huali 2.JPG" alt="" width="300">
+<img align="right" src="/assets/img/Huali 2.JPG" alt="" width="280">
 
 ### Education:
   
@@ -18,9 +18,8 @@ order: 1
    - _B.S. (2017 - 2021)_, School of Mathematics, Jilin University
 
 ### Contact:
-Department of Mathematical Sciences, Tsinghua University, Beijing, China
 
-**Email:** zhl21[at]mails[dot]tsinghua[dot]edu[dot]cn
+**Email:** zhl21@mails.tsinghua.edu.cn
 
 I am on the job market for the 2025-2026 academic year.
 
