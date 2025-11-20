@@ -25,6 +25,8 @@ I am on the job market for the 2025-2026 academic year.
 
 ### News:
 
+- **November 2025**: Huali received the **National Scholarship** from the Ministry of Education of China.
+
 - **September 2025**: Our manuscript on [A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies](https://arxiv.org/abs/2509.06118) is available on [arXiv](https://arxiv.org/abs/2509.06118).
 
 - **April 2025**: Huali won [2025 IMS Hannan Graduate Student Travel Award](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/).
