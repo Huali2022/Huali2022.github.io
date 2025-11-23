@@ -17,3 +17,7 @@ If you are interested in my research, please feel free to email me and we can di
 - **Zhao, H.** and Wang, T. (2025+). _“Augmented transfer regression learning for handling completely missing covariates"_.
 - **Zhao, H.** and Wang, T. (2025+). _“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"_.
 
+## Working paper ##
+
+- **Zhao, H.** and Deng, K. (2025+) _"Transfer learning for generalized linear models with completely missing data"_.
+- **Zhao, H.**, Liu, M., and Wang, T. (2025+) _"A data fusion framework for errors-in-variables"_.
