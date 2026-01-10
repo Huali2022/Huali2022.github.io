@@ -7,7 +7,7 @@ I am dedicated to developing novel statistical methods tailored for handling com
   
 If you are interested in my research, please feel free to email me and we can discuss further. Looking forward to working on an interesting research project together.
 
-## Publication ##
+## Publications ##
 
 - **Zhao, H.** and Wang, T. (2024). ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418), **Biometrics**.
 - **Zhao, H.** and Wang, T. (2026+). _“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"_, **Statistica Sinica**, accepted.
