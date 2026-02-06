@@ -1096,7 +1096,7 @@ pre {
    ========================= */
 
 .container {
-  max-width: 820px;   /* 控制左右留白（核心） */
+  max-width: 900px;   /* 控制左右留白（核心） */
 }
 
 .container,
