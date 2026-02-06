@@ -1091,17 +1091,3 @@ pre {
   }
 }
 
-/* =========================
-   Custom page width & margins
-   ========================= */
-
-.container {
-  max-width: 900px;   /* 控制左右留白（核心） */
-}
-
-.container,
-.page-content {
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
