@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I am dedicated to developing novel statistical methods tailored for handling complex structured data and addressing associated challenges. My specific areas of interest encompass transfer learning, high-dimensional inference, measurement errors, missing data and compositional data analysis. 
+I am dedicated to developing novel statistical methods tailored for handling complex structured data and addressing associated challenges. My specific areas of interest encompass data fusion, transfer learning, high-dimensional inference, measurement errors, missing data and compositional data analysis. 
   
 If you are interested in my research, please feel free to email me and we can discuss further. Looking forward to working on an interesting research project together.
 
@@ -17,6 +17,7 @@ If you are interested in my research, please feel free to email me and we can di
 
 - **Zhao, H.** and Wang, T. (2025+). ["A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies"](https://arxiv.org/abs/2509.06118).
 - **Zhao, H.** and Wang, T. (2025+). _“Augmented transfer regression learning for handling completely missing covariates"_.
+  - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**
 
 ## Working Papers ##
 
