@@ -10,13 +10,13 @@ If you are interested in my research, please feel free to email me and we can di
 ## Publications ##
 
 - **Zhao, H.** and Wang, T. (2024). ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418), **Biometrics**.
-- **Zhao, H.** and Wang, T. (2026+). _“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"_, **Statistica Sinica**, accepted.
+- **Zhao, H.** and Wang, T. (2026). [“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf), **Statistica Sinica**.
 
 
 ## Under Review ##
 
 - **Zhao, H.** and Wang, T. (2025+). ["A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies"](https://arxiv.org/abs/2509.06118).
-- **Zhao, H.** and Wang, T. (2025+). _“Augmented transfer regression learning for handling completely missing covariates"_.
+- **Zhao, H.** and Wang, T. (2025+). [“Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469).
   - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**
 
 ## Working Papers ##
