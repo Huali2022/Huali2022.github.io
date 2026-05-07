@@ -25,7 +25,9 @@ I am on the job market for the 2025-2026 academic year.
 
 ### News:
 
-- **January 2026**: Our paper on _"Doubly Robust Transfer Learning Under Sub-group Shift for Cohort-Level Missing Indicator Covariates"_ is accepted by **Statistica Sinica**.
+- **May 2026**: Our manuscript on [Augmented transfer regression learning for completely missing covariates](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
+
+- **January 2026**: Our paper on [Doubly Robust Transfer Learning Under Sub-group Shift for Cohort-Level Missing Indicator Covariates](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf) is accepted by **Statistica Sinica**.
 
 - **November 2025**: Huali received the National Scholarship.
 
