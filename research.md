@@ -18,9 +18,10 @@ If you are interested in my research, please feel free to email me and we can di
 - **Zhao, H.** and Wang, T. (2025+). ["A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies"](https://arxiv.org/abs/2509.06118).
 - **Zhao, H.** and Wang, T. (2025+). [“Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469).
   - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**
+ 
+- **Zhao, H.** and Deng, K. (2026+). _"Transfer learning for generalized linear models with completely missing data"_.
 
 ## Working Papers ##
 
-- **Zhao, H.** and Deng, K. (2025+). _"Transfer learning for generalized linear models with completely missing data"_.
 - **Zhao, H.**, Liu, M., and Wang, T. (2025+). _"A data fusion framework for errors-in-variables"_.
 - **Zhao, H.** and Deng, K. (2026+). _"A low-rank hierarchical ANOVA logistic model for imported food data studies"_.
