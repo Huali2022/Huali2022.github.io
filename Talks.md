@@ -4,7 +4,7 @@ title: Talks
 ---
 
 ## 2026 ##
-- The 4th Joint Conference on Statistics and Data Science in China, Guiyang (July 2026)
+- The 4th Joint Conference on Statistics and Data Science in China, Guizhou (July 2026)
   
 ## 2025 ##
 - The 3th Joint Conference on Statistics and Data Science in China, Hangzhou (July 2025)
