@@ -9,7 +9,7 @@ order: 1
 
 ### Education:
   
-   - _Doctoral Student (2021 - now)_, Department of Mathematical Sciences, Tsinghua University   
+   - Ph.D. _(2021 - 2026)_, Department of Mathematical Sciences, Tsinghua University   
        - Advisors: [Ke Deng](https://www.stat.tsinghua.edu.cn/en/info/1023/1053.htm) and [Ying Yang](https://www.stat.tsinghua.edu.cn/en/info/1023/1401.htm)
 
    - _Visiting Student (Jun 2024 - Nov 2024)_, Department of Statistics, Colorado State University
