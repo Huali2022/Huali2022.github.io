@@ -19,9 +19,7 @@ order: 1
 
 ### Contact:
 
-**Email:** zhl21@mails.tsinghua.edu.cn
-
-I am on the job market for the 2025-2026 academic year.
+**Email:** zhl21@tsinghua.org.cn
 
 ### News:
 
