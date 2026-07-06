@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Huali Zhao
-subtitle: Doctoral Student, Department of Mathematical Sciences, Tsinghua University
+subtitle: Ph.D., Department of Mathematical Sciences, Tsinghua University
 use-site-title: true
 order: 1
 ---
@@ -12,7 +12,7 @@ order: 1
    - Ph.D. _(2021 - 2026)_, Department of Mathematical Sciences, Tsinghua University   
        - Advisors: [Ke Deng](https://www.stat.tsinghua.edu.cn/en/info/1023/1053.htm) and [Ying Yang](https://www.stat.tsinghua.edu.cn/en/info/1023/1401.htm)
 
-   - _Visiting Student (Jun 2024 - Nov 2024)_, Department of Statistics, Colorado State University
+   - _Visiting Scholar (Jun 2024 - Nov 2024)_, Department of Statistics, Colorado State University
        - Advisor: [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
   
    - _B.S. (2017 - 2021)_, School of Mathematics, Jilin University
@@ -22,6 +22,8 @@ order: 1
 **Email:** zhl21@tsinghua.org.cn
 
 ### News:
+
+- **June 2026**: Huali was awarded Distinguished Graduate, Tsinghua University.
 
 - **May 2026**: Our manuscript on [Augmented transfer regression learning for completely missing covariates](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
 
