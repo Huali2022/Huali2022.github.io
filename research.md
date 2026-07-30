@@ -15,7 +15,7 @@ If you are interested in my research, please feel free to email me and we can di
 
 ## Under Review ##
 
-- **Zhao, H.** and Wang, T. (2025+). ["A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies"](https://arxiv.org/abs/2509.06118).
+- **Zhao, H.** and Wang, T. (2025+). ["A simulation-free extrapolation method for misspecified models with errors-in-variables in epidemiological studies"](https://arxiv.org/abs/2509.06118v3).
 - **Zhao, H.** and Wang, T. (2025+). [“Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469).
   - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**
  
