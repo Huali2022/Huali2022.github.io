@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Research
+title: Publications
 ---
 
-I am dedicated to developing novel statistical methods tailored for handling complex structured data and addressing associated challenges. My specific areas of interest encompass data fusion, transfer learning, high-dimensional inference, measurement errors, missing data and compositional data analysis. 
-  
-If you are interested in my research, please feel free to email me and we can discuss further. Looking forward to working on an interesting research project together.
 
 ## Publications ##
 
