@@ -18,7 +18,7 @@ baseurl: ""
 title: Huali Zhao
 
 # Short description of your site
-description: Ph.D Student in Mathematics 
+description: Ph.D in Statistics 
 
 # --- Navigation bar options --- #
 
@@ -79,7 +79,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "zhl21@mails.tsinghua.edu.cn"
+  email: "zhl21@tsinghua.org.cn"
 #  facebook: daattali
   github: Huali2022
 #  twitter: daattali
