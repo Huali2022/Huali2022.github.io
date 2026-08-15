@@ -9,16 +9,6 @@ order: 1
 
 Welcome! I am currently an Assistant Professor in the School of Mathematics and Statistics at Huazhong University of Science and Technology. 
 
-I focus on developing novel **statistical and AI methods** tailored for handling complex structured data and addressing associated challenges. My research interests span data fusion, transfer learning, semi‑supervised learning, measurement error, and missing data. 
-
-If you are interested in my research, please feel free to email me for further discussion. I am actively seeking undergraduate and graduate students to work on exciting research projects.
-
-
-### Contact:
-
-**Email:** zhl21@tsinghua.org.cn
-
-
 ### Education:
   
    - Ph.D. _(2021 - 2026)_, Department of Mathematical Sciences, Tsinghua University   
@@ -28,6 +18,10 @@ If you are interested in my research, please feel free to email me for further d
        - Advisor: [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
   
    - _B.S. (2017 - 2021)_, School of Mathematics, Jilin University
+
+### Contact:
+
+**Email:** zhl21@tsinghua.org.cn
 
 
 ### News:
