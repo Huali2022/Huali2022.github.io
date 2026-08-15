@@ -1,11 +1,23 @@
 ---
 layout: page
 title: Huali Zhao
-subtitle: Ph.D., Department of Mathematical Sciences, Tsinghua University
+subtitle: Assistant Professor, School of Mathematics and Statistics, Huazhong University of Science and Technology
 use-site-title: true
 order: 1
 ---
 <img align="right" src="/assets/img/Huali 2.JPG" alt="" width="200">
+
+Welcome! I am currently an Assistant Professor in the School of Mathematics and Statistics at Huazhong University of Science and Technology. 
+
+I focus on developing novel **statistical and AI methods** tailored for handling complex structured data and addressing associated challenges. My research interests span data fusion, transfer learning, semi‑supervised learning, measurement error, and missing data. 
+
+If you are interested in my research, please feel free to email me for further discussion. I am actively seeking undergraduate and graduate students to work on exciting research projects.
+
+
+### Contact:
+
+**Email:** zhl21@tsinghua.org.cn
+
 
 ### Education:
   
@@ -17,9 +29,6 @@ order: 1
   
    - _B.S. (2017 - 2021)_, School of Mathematics, Jilin University
 
-### Contact:
-
-**Email:** zhl21@tsinghua.org.cn
 
 ### News:
 
