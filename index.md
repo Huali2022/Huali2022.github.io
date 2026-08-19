@@ -21,7 +21,7 @@ Welcome! I am currently an Assistant Professor in the School of Mathematics and 
 
 ### Contact:
 
-**Email:** hualizhao2026@outlook.com
+**Email:** hualizhao@hust.edu.cn
 
 
 ### News:
