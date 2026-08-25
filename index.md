@@ -5,7 +5,7 @@ subtitle: Assistant Professor, School of Mathematics and Statistics, Huazhong Un
 use-site-title: true
 order: 1
 ---
-<img align="right" src="/assets/img/Huali 2.JPG" alt="" width="200">
+<img align="right" src="/assets/img/Huali 1.JPG" alt="" width="200">
 
 Welcome! I am currently an Assistant Professor in the School of Mathematics and Statistics at Huazhong University of Science and Technology. 
 
