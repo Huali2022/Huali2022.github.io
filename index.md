@@ -7,22 +7,20 @@ order: 1
 ---
 <img align="right" src="/assets/img/Huali 1.JPG" alt="" width="200">
 
-Welcome! I am currently an Assistant Professor in the School of Mathematics and Statistics at Huazhong University of Science and Technology. 
+Welcome! I am currently an Assistant Professor in the School of Mathematics and Statistics at Huazhong University of Science and Technology. I focus on developing novel **statistical and AI methods** tailored for handling complex structured data and addressing associated challenges. My research interests include data fusion, transfer learning, semi‑supervised learning, measurement error, and missing data. 
+
+If you are interested in my research, please feel free to email me for further discussion. I am actively seeking undergraduate and graduate students to work on exciting research projects.
+
+**Email:** hualizhao@hust.edu.cn
+
 
 ### Education:
   
    - Ph.D. _(2021 - 2026)_, Department of Mathematical Sciences, Tsinghua University   
        - Advisors: [Ke Deng](https://www.stat.tsinghua.edu.cn/en/info/1023/1053.htm) and [Ying Yang](https://www.stat.tsinghua.edu.cn/en/info/1023/1401.htm)
-
    - _Visiting Scholar (Jun 2024 - Nov 2024)_, Department of Statistics, Colorado State University
        - Advisor: [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
-  
    - _B.S. (2017 - 2021)_, School of Mathematics, Jilin University
-
-### Contact:
-
-**Email:** hualizhao@hust.edu.cn
-
 
 ### News:
 
