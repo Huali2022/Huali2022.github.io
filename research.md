@@ -11,7 +11,7 @@ If you are interested in my research, please feel free to email me for further d
 ### Publications
 
 - **Zhao, H.** and Wang, T. (2026). [“Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469), **Journal of the Royal Statistical Society: Series B**, accepted.
-  - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**
+  - An earlier version won the _2025 IMS Hannan Graduate Student Travel Award_.
  
 - **Zhao, H.** and Wang, T. (2026). [“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf), **Statistica Sinica**, accepted.
 
