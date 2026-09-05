@@ -23,6 +23,8 @@ If you are interested in my research, please feel free to email me for further d
 
 ### News:
 
+- **September 2026**: Our paper on [Augmented transfer regression learning for completely missing covariates](https://arxiv.org/abs/2605.04469) is accepted by **Journal of the Royal Statistical Society: Series B**.
+
 - **June 2026**: Huali was awarded Distinguished Graduate, Tsinghua University.
 
 - **May 2026**: Our manuscript on [Augmented transfer regression learning for completely missing covariates](https://arxiv.org/abs/2605.04469) is available on [arXiv](https://arxiv.org/abs/2605.04469).
