@@ -26,9 +26,10 @@ description: Ph.D in Statistics
 navbar-links:
   Home: "http://huali2022.github.io"
   #About Me: "aboutme"
-  Research: "research"
+  # Research: "research"
      #- Overview: "research"
      #- Publications: "publications"
+  Publications: "publications"
   Education: 
      - Teaching: "teaching"
      - Talks: "Talks"
