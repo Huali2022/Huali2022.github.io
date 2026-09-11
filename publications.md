@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Publications
 ---
 
 I focus on developing novel **statistical and AI methods** tailored for handling complex structured data and addressing associated challenges. My research interests span data fusion, transfer learning, semi‑supervised learning, measurement error, and missing data. 
