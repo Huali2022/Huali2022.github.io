@@ -5,7 +5,7 @@ title: Publications
 
 I focus on developing novel **statistical and AI methods** tailored for handling complex structured data and addressing associated challenges. My research interests span data fusion, transfer learning, semi‑supervised learning, measurement error, and missing data. 
 
-If you are interested in my research, please feel free to email me for further discussion. I am actively seeking undergraduate and graduate students to work on exciting research projects.
+If you are interested in my research, please feel free to email me for further discussion. 
 
 
 ### Publications
