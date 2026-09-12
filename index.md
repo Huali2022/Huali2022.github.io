@@ -13,6 +13,15 @@ I am actively seeking collaborators, as well as undergraduate and graduate stude
 
 **Email:** hualizhao@hust.edu.cn
 
+### Education:
+  
+   - Ph.D. _(2021 - 2026)_, Department of Mathematical Sciences, Tsinghua University   
+       - Advisors: [Ke Deng](https://www.stat.tsinghua.edu.cn/en/info/1023/1053.htm) and [Ying Yang](https://www.stat.tsinghua.edu.cn/en/info/1023/1401.htm)
+   - _Visiting Scholar (Jun 2024 - Nov 2024)_, Department of Statistics, Colorado State University
+       - Advisor: [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
+   - _B.S. (2017 - 2021)_, School of Mathematics, Jilin University
+
+
 ### News:
 
 - **September 2026**: Our paper on [Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate](https://arxiv.org/abs/2509.06118) is accepted by **Statistical Science**.
