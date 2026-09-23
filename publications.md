@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+[**My Google Scholar**](https://scholar.google.com/citations?user=Ku1yvSMAAAAJ)
+
 I focus on developing novel **statistical and AI methods** tailored for handling complex structured data and addressing associated challenges. My research interests span data fusion, transfer learning, semi‑supervised learning, measurement error, and missing data. 
 
 If you are interested in my research, please feel free to email me for further discussion. 
