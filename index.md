@@ -16,9 +16,9 @@ I am actively seeking collaborators, as well as undergraduate and graduate stude
 ### Education:
   
    - Ph.D. _(2021 - 2026)_, Department of Mathematical Sciences, Tsinghua University   
-       - Advisors: [Ke Deng](https://www.stat.tsinghua.edu.cn/en/info/1023/1053.htm) and [Ying Yang](https://www.stat.tsinghua.edu.cn/en/info/1023/1401.htm)
+       - Advisors: Prof. [Ke Deng](https://www.stat.tsinghua.edu.cn/en/info/1023/1053.htm) and Prof. [Ying Yang](https://www.stat.tsinghua.edu.cn/en/info/1023/1401.htm)
    - _Visiting Scholar (Jun 2024 - Nov 2024)_, Department of Statistics, Colorado State University
-       - Advisor: [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
+       - Advisor: Prof. [Tianying Wang](https://statistics.colostate.edu/person/?id=7007959B876D22076178E19ED6C3873C&sq=t)
    - _B.S. (2017 - 2021)_, School of Mathematics, Jilin University
 
 
