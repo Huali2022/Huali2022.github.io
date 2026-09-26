@@ -25,7 +25,7 @@ If you are interested in my research, please feel free to email me for further d
 
 ### Under Review/Working Papers
 
-- **Zhao, H.** and Deng, K. (2026+). _"Transfer learning for generalized linear models with completely missing data"_.
-- **Zhao, H.**, Liu, M., and Wang, T. (2025+). _"A data fusion framework for errors-in-variables"_.
+- **Zhao, H.** and Deng, K. (2026+). _["Transfer learning for generalized linear models with completely missing data"](https://arxiv.org/abs/2609.24086)_.
+- **Zhao, H.**, Liu, M., and Wang, T. (2026+). _"A data fusion framework for errors-in-variables"_.
 - **Zhao, H.** and Deng, K. (2026+). _"A low-rank hierarchical ANOVA logistic model for imported food data studies"_.
 - Ma, X.\*, **Zhao, H.**\*, and Deng, K. (2026+). _"A weighted deconvolution calibration method for categorized continuous variables subject to measurement error"_. (\* joint first authors)
