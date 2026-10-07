@@ -24,6 +24,8 @@ I am actively seeking collaborators, as well as undergraduate and graduate stude
 
 ### News:
 
+- **October 2026**: Our manuscript on [Data Fusion for Errors-in-Variables](https://arxiv.org/abs/2610.07048) is available on [arXiv](https://arxiv.org/abs/2610.07048).
+
 - **September 2026**: Our manuscript on [Doubly robust target inference for generalized linear regression with completely missing covariates](https://arxiv.org/abs/2609.24086) is available on [arXiv](https://arxiv.org/abs/2609.24086).
 
 - **September 2026**: Our paper on [Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate](https://arxiv.org/abs/2509.06118) is accepted by **Statistical Science**.
