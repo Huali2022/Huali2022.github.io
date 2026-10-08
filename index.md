@@ -30,7 +30,7 @@ I am actively seeking collaborators, as well as undergraduate and graduate stude
 
 - **September 2026**: Our paper on ["Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate"](https://arxiv.org/abs/2509.06118) is accepted by **Statistical Science**.
 
-- **September 2026**: Our paper on ["Augmented transfer regression learning for completely missing covariates"](https://arxiv.org/abs/2605.04469) is accepted by **Journal of the Royal Statistical Society: Series B**.
+- **September 2026**: Our paper on ["Augmented transfer regression learning for completely missing covariates"](https://doi.org/10.1093/jrsssb/qkag131) is accepted by **Journal of the Royal Statistical Society: Series B**.
 
 - **June 2026**: Huali was awarded Distinguished Graduate, Tsinghua University.
 
@@ -44,7 +44,7 @@ I am actively seeking collaborators, as well as undergraduate and graduate stude
 
 - **April 2025**: Huali won [2025 IMS Hannan Graduate Student Travel Award](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/).
 
-- **November 2024**: Our paper on ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://academic.oup.com/biometrics/article/80/4/ujae153/7925418) is accepted by **Biometrics**.
+- **November 2024**: Our paper on ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://doi.org/10.1093/biomtc/ujae153) is accepted by **Biometrics**.
 
 - **September 2024**: Our manuscript on ["Debiased high-dimensional regression calibration for errors-in-variables log-contrast models"](https://arxiv.org/abs/2409.07568) is available on [arXiv](https://arxiv.org/abs/2409.07568).
 
