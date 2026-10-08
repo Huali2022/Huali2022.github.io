@@ -14,7 +14,7 @@ If you are interested in my research, please feel free to email me for further d
 
 - **Zhao, H.** and Wang, T. (2026). ["Simulation-free extrapolation for misspecified models induced by categorizing an error-prone continuous covariate"](https://arxiv.org/abs/2509.06118v3), **Statistical Science**, accepted.
 
-- **Zhao, H.** and Wang, T. (2026). [“Augmented transfer regression learning for completely missing covariates"](https://doi.org/10.1093/jrsssb/qkag131), **Journal of the Royal Statistical Society: Series B**, published online.
+- **Zhao, H.** and Wang, T. (2026). [“Augmented transfer regression learning for completely missing covariates"](https://doi.org/10.1093/jrsssb/qkag131), **Journal of the Royal Statistical Society Series B: Statistical Methodology**, published online.
   - An earlier version won the **2025 IMS Hannan Graduate Student Travel Award**.
  
 - **Zhao, H.** and Wang, T. (2026). [“Doubly robust transfer learning under sub-group shift for cohort-level missing indicator covariates"](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0245_na.pdf), **Statistica Sinica**, accepted.
