@@ -13,6 +13,11 @@ I am actively seeking collaborators, as well as undergraduate and graduate stude
 
 **Email:** hualizhao@hust.edu.cn
 
+### Employment：
+
+- 2026.08-Now, Assistant Professor, School of Mathematics and Statistics, Huazhong University of Science and Technology
+
+
 ### Education:
   
    - Ph.D. _(2021 - 2026)_, Department of Mathematical Sciences, Tsinghua University   
